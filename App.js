@@ -27,3 +27,4 @@ function Remainder(num1,num2){
     return result;
 }
 alert(Remainder(24,7));
+console.log(Remainder(3242.634));
