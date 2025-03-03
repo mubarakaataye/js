@@ -24,4 +24,5 @@ alert(Divided(65,5));
 console.log(Divided(34,7));
 function Remainder(num1,num2){
     let result=num1%num2;
+    return result;
 }
