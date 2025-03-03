@@ -12,4 +12,5 @@ alert(Multiplay(5,2));
 console.log(Multiplay(3,4));
 function Substract(num1,num2){
     let result=num1-num2;
+    return result;
 }
