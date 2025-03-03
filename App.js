@@ -18,4 +18,5 @@ alert(Substract(12,5));
 console.log(Substract(45,23));
 function Divided (num1,num2){
     let result=num1/num2;
+    return result;
 }
