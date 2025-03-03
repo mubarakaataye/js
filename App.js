@@ -9,3 +9,4 @@ function Multiplay(num1,num2){
     return result;
 }
 alert(Multiplay(5,2));
+console.log(Multiplay(3,4));
