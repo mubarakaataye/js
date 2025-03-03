@@ -26,3 +26,4 @@ function Remainder(num1,num2){
     let result=num1%num2;
     return result;
 }
+alert(Remainder(24,7));
