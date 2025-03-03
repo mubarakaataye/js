@@ -20,3 +20,4 @@ function Divided (num1,num2){
     let result=num1/num2;
     return result;
 }
+alert(Divided(65,5));
