@@ -21,3 +21,4 @@ function Divided (num1,num2){
     return result;
 }
 alert(Divided(65,5));
+console.log(Divided(34,7));
